@@ -1,2 +1,6 @@
 My name is sam.
+<<<<<<< HEAD
 Last name is dash
+=======
+1.5 updated
+>>>>>>> origin/master
